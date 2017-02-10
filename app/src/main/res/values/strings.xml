@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">states_learning</string>
+    <string name="name1"> YOUR VALUE</string>
+    <string name="action_settings">Settings</string>
+</resources>
